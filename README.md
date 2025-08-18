@@ -1,4 +1,4 @@
-# 📦 React Task Tracker
+# 📦 EAT N SPLIT
 
 A travel destination application built with HTML, CSS, React, and JavaScript. This app allows users to explore popular travel destinations, view details, and get inspired for their next trip.
 
