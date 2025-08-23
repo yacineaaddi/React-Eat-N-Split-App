@@ -5,6 +5,7 @@ A travel destination application built with HTML, CSS, React, and JavaScript. Th
 ## 🔗 Demo
 
 _A live demo link will be added here soon._
+www.eatnsplitproject.com
 
 ## ✨ Features
 
