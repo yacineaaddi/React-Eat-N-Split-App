@@ -1,34 +1,33 @@
 # 📦 EAT N SPLIT
 
-A travel destination application built with HTML, CSS, React, and JavaScript. This app allows users to explore popular travel destinations, view details, and get inspired for their next trip.
+A simple and intuitive React application for splitting bills among friends—track shared expenses and easily settle debts within your group
 
 ## 🔗 Demo
 
 _A live demo link will be added here soon._
-www.eatnsplitproject.com
 
 ## ✨ Features
 
-- **Destination Listings** : Browse a collection of popular travel destinations.
+- **Add Friends** : Quickly add friends with avatars to your list.
 
-- **Destination Details** : View location highlights, descriptions, and images.
+- **Split Bill Form** : Specify total bill, your share, and who is paying.
 
-- **Responsive Design** : Optimized for desktops, tablets, and mobile devices.
+- **Responsive Design** : Friendly interface on desktops, tablets, and mobiles.
 
-- **Reusable Components** : Built with React for scalability and maintainability.
+- **Modular React Components** : Clean structure using controlled inputs and state.
 
 ## ⚙️ Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yacineaaddi/React-Travel-App.git
+   git clone https://github.com/yacineaaddi/React-Eat-N-Split-App
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd React-Travel-App
+   cd React-Eat-N-Split-App
    ```
 
 3. Install dependencies:
@@ -48,32 +47,25 @@ www.eatnsplitproject.com
 
 - 🎨 CSS : Styling and layout.
 
-- ⚙️ JavaScript : Functionality and interactivity.
+- ⚙️ JavaScript : Functionality, logic and interactivity.
 
-- ⚛️ React : Component-based UI development.
+- ⚛️ React : For building interactive user interfaces.
 
 ## 📁 Folder Structure
 
 ```
-React-Travel-App/
+React-Eat-N-Split-App/
 ├── public/
 │   ├── index.html
-│   └── favicon.ico
+│   └── favicon.png
 ├── src/
-│   ├── Components/
-│   │   ├── Navbar.js
-│   │   ├── Hero.js
-│   │   ├── Destinations.js
-│   │   ├── Footer.js
-│   │   └── ...
 │   ├── App.js
-│   ├── index.js
-│   └── styles.css
+│   ├── index.css
+│   └── index.js
 ├── package.json
 ├── package-lock.json
 ├── README.md
-├── LICENSE
-└── .gitignore
+└── LICENSE
 ```
 
 ## 🤝 Contributing
@@ -88,4 +80,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Yacine Aaddi - [yacineaaddi@gmail.com](mailto:yacineaaddi@gmail.com)
 
-Project Link: [https://github.com/yacineaaddi/React-Travel-App](https://github.com/yacineaaddi/React-Travel-App)
+Project Link: [https://github.com/yacineaaddi/React-Eat-N-Split-App](https://github.com/yacineaaddi/React-Eat-N-Split-App)
