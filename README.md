@@ -1,6 +1,6 @@
 # 📦 EAT N SPLIT
 
-A simple and intuitive React application for splitting bills among friends—track shared expenses and easily settle debts within your group
+A simple and intuitive React application for splitting bills among friends, track shared expenses and easily settle debts within your group
 
 ## 🔗 Demo
 
@@ -43,13 +43,13 @@ _A live demo link will be added here soon._
 
 ## 🛠️ Technologies Used
 
-- 💻 HTML : Structure of the application.
-
 - 🎨 CSS : Styling and layout.
 
-- ⚙️ JavaScript : Functionality, logic and interactivity.
+- 💻 HTML : Structure of the application.
 
 - ⚛️ React : For building interactive user interfaces.
+
+- ⚙️ JavaScript : Functionality, logic and interactivity.
 
 ## 📁 Folder Structure
 
